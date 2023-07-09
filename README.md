@@ -38,12 +38,6 @@
   <a href="https://github.com/smargha1/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<br/>
-<br/>
-<a href="https://github.com/smargha1/github-readme-activity-graph"><img alt="Srabon Mandal Argha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=smargha1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
-
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smargha1" height="30" width="40" /></a>
