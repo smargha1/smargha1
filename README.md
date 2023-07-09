@@ -35,6 +35,11 @@
     <a href="https://github.com/smargha1/github-readme-stats"><img alt="Srabon Mandal Argha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smargha1&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" width="45%"/></a>
   <br/>
 
+<br/>
+<p align="center">
+  <a href="https://metrics.lecoq.io/smargha1"><img alt="Srabon Mandal Argha's Github Metrics" src="https://metrics.lecoq.io/smargha1?username=smargha1&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" width="50%"/></a>
+</p>
+
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smargha1" height="30" width="40" /></a>
