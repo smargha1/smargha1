@@ -47,9 +47,6 @@ Skills:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=smargha1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smargha1&show_icons=true&count_private=true)  
-
-
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
