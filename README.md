@@ -22,11 +22,11 @@ Skills:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smargha1&label=Profile%20views&color=0e75b6&style=flat" alt="smargha1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smargha1" alt="smargha1" /></a> </p>
 
-- 🔭 I’m currently working on **Upwork**
+-✅ 🔭 I’m currently working on **Upwork**
 
 - 🌱 I’m currently learning **Laravel**
 
@@ -82,5 +82,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/smargha1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=smargha1)  
-
-![Profile views](https://gpvc.arturio.dev/smargha1)  
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smargha1&label=Profile%20views&color=0e75b6&style=flat" alt="smargha1" /> </p>
