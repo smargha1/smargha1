@@ -42,7 +42,7 @@
 </p>
 
 ## 🌐 Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smargha1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smargha1" height="30" width="40" /></a>
 <a href="https://fb.com/srabonsma.2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srabonsma.2000" height="30" width="40" /></a>
