@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Srabon Mandal Argha</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="left">Full-Stack Web Developer</h3>
 
 ![*Full-Stack Web Developer*](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -9,30 +9,24 @@ In my pursuit of professional growth, I am driven to excel within the ICT sector
 Moreover, I am eager to leverage my extensive knowledge in Computer Science & Engineering to make substantial contributions to a dynamic organization. With a steadfast focus on leadership and a proactive approach to seizing opportunities, I aim to drive innovation and success within the industry.
 
 Skills: 
-- Web Development: HTML, CSS, JavaScript, and PHP.
-- Content Management System (CMS): WordPress.
-- Frameworks: Bootstrap 4, jQuery, and Laravel.
-- Front-end Tools: SASS/SCSS, AJAX, Node.js, and Git.
-- Database Management: MySQL.
-- Programming Languages: C, C++, and PHP.
-- Familiarity with Windows and Linux operating systems.
-- Troubleshooting: Hardware and Software.
-- MS Office: Word, Excel, and PowerPoint.
-- Design Tools: Figma, Photoshop, and Illustrator.   
-
-
-
-
+-✅ Web Development: HTML, CSS, JavaScript, and PHP.
+-✅ Content Management System (CMS): WordPress.
+-✅ Frameworks: Bootstrap 4, jQuery, and Laravel.
+-✅ Front-end Tools: SASS/SCSS, AJAX, Node.js, and Git.
+-✅ Database Management: MySQL.
+-✅ Programming Languages: C, C++, and PHP.
+-✅ Familiarity with Windows and Linux operating systems.
+-✅ Troubleshooting: Hardware and Software.
+-✅ MS Office: Word, Excel, and PowerPoint.
+-✅ Design Tools: Figma, Photoshop, and Illustrator.   
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smargha1" alt="smargha1" /></a> </p>
 
--✅ 🔭 I’m currently working on **Upwork**
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **Website Development**
-
-- 📫 How to reach me **argha.cse.gub@gmail.com**
+- 🔭 I’m currently working on **Upwork**. 
+- 🌱 I’m currently learning **Laravel**. 
+- 💬 Ask me about **Website Development**. 
+- 📫 How to reach me: **argha.cse.gub@gmail.com** 
+- 😄 Pronouns: Code Solve, Travel, Music, Photography 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,21 +44,9 @@ Skills:
 
 
 
-### Hi there 👋, my name is **Srabon Mandal Argha**
-#### Full-Stack Web Developer
-![Full-Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-In my pursuit of professional growth, I am driven to excel within the ICT sector by seeking opportunities in organizations that prioritize the empowerment of emerging talent. My commitment lies in consistently delivering work of utmost speed, precision, and dependability. I thrive in demanding environments, where I can apply my skills to conquer challenges with enthusiasm.
 
-Moreover, I am eager to leverage my extensive knowledge in Computer Science & Engineering to make substantial contributions to a dynamic organization. With a steadfast focus on leadership and a proactive approach to seizing opportunities, I aim to drive innovation and success within the industry.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on **Upwork**. 
-- 🌱 I’m currently learning **Laravel**. 
-- 💬 Ask me about **Website Development**. 
-- 📫 How to reach me: **argha.cse.gub@gmail.com** 
-- 😄 Pronouns: Code Solve, Travel, Music, Photography 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smargha1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/smargha1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/srabonsma.2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/smargha1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/smargha1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wikipedia.svg' alt='wikipedia' height='40'>](https://en.wikialpha.org/wiki/Srabon_Mandal_Argha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](https://join.skype.com/invite/Wd8fi7YnoCXM/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.link/wtzjkl/)  
