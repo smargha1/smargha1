@@ -50,6 +50,8 @@ Skills:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smargha1&show_icons=true&locale=en&layout=compact" alt="smargha1" /></p>
 
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=smargha1&show_icons=true&locale=en" alt="smargha1" /></p>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=smargha1&" alt="smargha1" /></p>
