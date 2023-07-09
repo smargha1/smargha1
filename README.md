@@ -28,7 +28,7 @@
 
 ## 📊 My Github Stats:
 <p align="center">
-    <a href="https://github.com/smargha1/github-readme-stats"><img alt="Srabon Mandal Argha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" width="35%"/></a>
+    <a href="https://github.com/smargha1/github-readme-stats"><img alt="Srabon Mandal Argha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" width="36%"/></a>
 </p>
 
   <br/>
@@ -53,8 +53,9 @@
 <a href="https://youtube.com/channel/UCln3Z-yUKDjw1HUqq04Ht_A/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="designer & developer partners" height="30" width="40" /></a>
 </p>
 
-## ❤ Views and Followers:
+<p align="right">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=smargha1"></a>
 <a href="https://github.com/smargha1?tab=followers"><img src="https://img.shields.io/github/followers/smargha1?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
 <!-- Created by Srabon Mandal Argha -->
