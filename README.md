@@ -46,13 +46,13 @@
 ## 🌐 Connect with me:
 <p align="center">
 <a href="https://twitter.com/smargha1" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/twitter.svg" alt="smargha1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/smargha1" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/linked-in.svg" alt="smargha1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/smargha1" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/linked-in-alt.svg" alt="smargha1" height="30" width="40" /></a>
 <a href="https://fb.com/srabonsma.2000" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/facebook.svg" alt="srabonsma.2000" height="30" width="40" /></a>
 <a href="https://instagram.com/smargha1" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/instagram.svg" alt="smargha1" height="30" width="40" /></a>    
 <a href="https://join.skype.com/invite/Wd8fi7YnoCXM/" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/skype.svg" alt="smargha1" height="30" width="40" /></a>    
 <a href="https://wa.link/wtzjkl/" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/whatsapp.svg" alt="smargha1" height="30" width="40" /></a>    
 <a href="https://www.behance.net/smargha1" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/behance.svg" alt="smargha1" height="30" width="40" /></a>  
-<a href="https://youtube.com/channel/UCln3Z-yUKDjw1HUqq04Ht_A/" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/youtube.svg" alt="designer & developer partners" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCln3Z-yUKDjw1HUqq04Ht_A/" target="blank"><img align="center" src="https://github.com/smargha1/smargha1/blob/main/icons/Social/youtube.svg" alt="designer & developer partners" height="40" width="40" /></a>
 </p>
 
 <p align="right">
