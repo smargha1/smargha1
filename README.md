@@ -57,9 +57,7 @@ Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=smargha1&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smargha1)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smargha1&show_icons=true&count_private=true)  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smargha1)  
 
 ![GitHub metrics](https://metrics.lecoq.io/smargha1)  
 
