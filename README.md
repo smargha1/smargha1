@@ -28,12 +28,12 @@
 
 ## 📊 My Github Stats:
 <p align="center">
-    <a href="https://github.com/smargha1/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srabon Mandal Argha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smargha1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+    <a href="https://github.com/smargha1/github-readme-stats"><img alt="Srabon Mandal Argha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" width="35%"/></a>
 </p>
 
   <br/>
-    <a href="https://github.com/smargha1/github-readme-stats"><img alt="Srabon Mandal Argha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smargha1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/smargha1/github-readme-stats"><img alt="Srabon Mandal Argha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/smargha1/github-readme-stats"><img alt="Srabon Mandal Argha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smargha1&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" width="45%"/></a>
+    <a href="https://github.com/smargha1/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Srabon Mandal Argha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smargha1&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" width="48%"/></a>
   <br/>
 
 ## 🌐 Connect with me:
@@ -50,10 +50,5 @@
 ## ❤ Views and Followers:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=smargha1"></a>
 <a href="https://github.com/smargha1?tab=followers"><img src="https://img.shields.io/github/followers/smargha1?label=Followers&style=social" alt="GitHub Badge"></a>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smargha1&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=smargha1&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Created by Srabon Mandal Argha -->
