@@ -2,8 +2,8 @@
 <a href="#"><img width="60%" height="auto" src="https://github.com/smargha1/smargha1/blob/main/header.png"/></a>
 </p>
     
-<h1 align="center">Hi <img src="https://github.com/smargha1/smargha1/blob/main/wave.gif" width="30px">, I'm Srabon Mandal Argha</h1>
-<h3 align="center">I'm a passionate Full-Stack Web Developer.</h3>
+<h1 align="center">Hi <img src="https://github.com/smargha1/smargha1/blob/main/wave.gif" width="30px">, I am Srabon Mandal Argha</h1>
+<h3 align="center">Dedicated and skilled Full-Stack Web Developer</h3>
 
 ## 🙋‍♂️ About Me:
 - 🔭 I’m currently working on: **Upwork**. 
