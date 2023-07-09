@@ -7,16 +7,16 @@ In my pursuit of professional growth, I am driven to excel within the ICT sector
 Moreover, I am eager to leverage my extensive knowledge in Computer Science & Engineering to make substantial contributions to a dynamic organization. With a steadfast focus on leadership and a proactive approach to seizing opportunities, I aim to drive innovation and success within the industry.
 
 Skills: 
-• Web Development: HTML, CSS, JavaScript, and PHP.
-• Content Management System (CMS): WordPress.
-• Frameworks: Bootstrap 4, jQuery, and Laravel.
-• Front-end Tools: SASS/SCSS, AJAX, Node.js, and Git.
-• Database Management: MySQL.
-• Programming Languages: C, C++, and PHP.
-• Familiarity with Windows and Linux operating systems.
-• Troubleshooting: Hardware and Software.
-• MS Office: Word, Excel, and PowerPoint.
-• Design Tools: Figma, Photoshop, and Illustrator.   
+- Web Development: HTML, CSS, JavaScript, and PHP.
+- Content Management System (CMS): WordPress.
+- Frameworks: Bootstrap 4, jQuery, and Laravel.
+- Front-end Tools: SASS/SCSS, AJAX, Node.js, and Git.
+- Database Management: MySQL.
+- Programming Languages: C, C++, and PHP.
+- Familiarity with Windows and Linux operating systems.
+- Troubleshooting: Hardware and Software.
+- MS Office: Word, Excel, and PowerPoint.
+- Design Tools: Figma, Photoshop, and Illustrator.   
 
 - 🔭 I’m currently working on Upwork 
 - 🌱 I’m currently learning Laravel 
