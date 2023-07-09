@@ -21,18 +21,6 @@ Skills:
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smargha1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smargha1" height="30" width="40" /></a>
-<a href="https://fb.com/srabonsma.2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srabonsma.2000" height="30" width="40" /></a>
-<a href="https://instagram.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smargha1" height="30" width="40" /></a>
-<a href="https://dribbble.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="smargha1" height="30" width="40" /></a>
-<a href="https://www.behance.net/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="smargha1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/designer & developer partners" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="designer & developer partners" height="30" width="40" /></a>
-</p>
-
-
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
@@ -74,15 +62,13 @@ Skills:
 
 ## 👫 Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://en.wikialpha.org/wiki/Srabon_Mandal_Argha/"><img src="https://www.pngfind.com/pngs/m/301-3019558_wikipedia-logo-wikipedia-logo-png-transparent-png.png"/></a>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wikipedia.svg' alt='wikipedia' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](https://join.skype.com/invite/Wd8fi7YnoCXM/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.link/wtzjkl/) 
-
+<a href="https://twitter.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smargha1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smargha1" height="30" width="40" /></a>
+<a href="https://fb.com/srabonsma.2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srabonsma.2000" height="30" width="40" /></a>
+<a href="https://instagram.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smargha1" height="30" width="40" /></a>
+<a href="https://dribbble.com/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="smargha1" height="30" width="40" /></a>
+<a href="https://www.behance.net/smargha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="smargha1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/designer & developer partners" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="designer & developer partners" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers
