@@ -12,15 +12,15 @@
 - ⚡ Fun fact: **I like programming problem-solving.**
 
 ## 👨‍🎓 Skills: 
-✅ Web Development: HTML, CSS, JavaScript, and PHP.
-✅ Content Management System (CMS): WordPress.
-✅ Frameworks: Bootstrap 4, jQuery, and Laravel.
-✅ Front-end Tools: SASS/SCSS, AJAX, Node.js, and Git.
-✅ Database Management: MySQL.
-✅ Programming Languages: C, C++, and PHP.
-✅ Familiarity with Windows and Linux operating systems.
-✅ Troubleshooting: Hardware and Software.
-✅ MS Office: Word, Excel, and PowerPoint.
+✅ Web Development: HTML, CSS, JavaScript, and PHP.<br/>
+✅ Content Management System (CMS): WordPress.<br/>
+✅ Frameworks: Bootstrap 4, jQuery, and Laravel.<br/>
+✅ Front-end Tools: SASS/SCSS, AJAX, Node.js, and Git.<br/>
+✅ Database Management: MySQL.<br/>
+✅ Programming Languages: C, C++, and PHP.<br/>
+✅ Familiarity with Windows and Linux operating systems.<br/>
+✅ Troubleshooting: Hardware and Software.<br/>
+✅ MS Office: Word, Excel, and PowerPoint.<br/>
 ✅ Design Tools: Figma, Photoshop, and Illustrator.
 
 ## 💻 Languages and Tools:
