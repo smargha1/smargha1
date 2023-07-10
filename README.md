@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="85%" height="auto" src="https://github.com/smargha1/smargha1/blob/main/header.png"/></a>
+<a href="#"><img width="80%" height="auto" src="https://github.com/smargha1/smargha1/blob/main/header.png"/></a>
 </p>
     
 <h1 align="center">Hi <img src="https://github.com/smargha1/smargha1/blob/main/wave.gif" width="30px">, I am Srabon Mandal Argha</h1>
