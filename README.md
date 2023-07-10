@@ -3,7 +3,7 @@
 </p>
     
 <h1 align="center">Hi <img src="https://github.com/smargha1/smargha1/blob/main/wave.gif" width="30px">, I am Srabon Mandal Argha</h1>
-<h3 align="center">Dedicated and skilled Full-Stack Web Developer</h3>
+<h4 align="center">Dedicated and skilled Full-Stack Web Developer</h4>
 
 ## 🙋‍♂️ About Me:
 - 🔭 I’m currently working on: **Upwork**. 
