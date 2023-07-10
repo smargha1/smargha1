@@ -17,14 +17,15 @@
 
 ## 👨‍🎓 Professional Skills: 
 ✔️ Web Development: **HTML, CSS, JavaScript, and PHP**.<br/>
-✔️ Content Management System (CMS): **WordPress**.<br/>
-✔️ Frameworks: **Bootstrap 4, jQuery, and Laravel**.<br/>
+✔️ Frameworks: **Bootstrap 4 and Laravel**.<br/>
+✔️ Libraries:  **jQuery and jQuery UI**.<br/>
 ✔️ Front-end Tools: **SASS/SCSS, AJAX, Node.js, and Git**.<br/>
-✔️ Database Management: **MySQL**.<br/>
+✔️ Database Management System: **MySQL**.<br/>
+✔️ Content Management System: **WordPress**.<br/>
 ✔️ Programming Languages: **C, C++, and PHP**.<br/>
-✔️ Familiarity with operating systems: **Windows and Linux**.<br/>
+✔️ Familiarity with OS: **Windows and Linux**.<br/>
 ✔️ Troubleshooting: **Hardware and Software**.<br/>
-✔️ MS Office: **Word, Excel, and PowerPoint**.<br/>
+✔️ MS Office Applications: **Word, Excel, and PowerPoint**.<br/>
 ✔️ Design Tools: **Figma, Photoshop, and Illustrator**.
 
 ## 📊 My Github Stats:
