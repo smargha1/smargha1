@@ -36,6 +36,10 @@
     <a href="https://github.com/smargha1/github-readme-stats"><img alt="Srabon Mandal Argha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=smargha1&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" width="45%"/></a>
   <br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smargha1&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=smargha1&theme=black-ice&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=smargha1&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+
 <br/>
 <p align="center">
   <a href="https://metrics.lecoq.io/smargha1"><img alt="Srabon Mandal Argha's Github Metrics" src="https://metrics.lecoq.io/smargha1?username=smargha1&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" width="50%"/></a>
