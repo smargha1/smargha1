@@ -19,7 +19,7 @@
 ✔️ Web Development: **HTML, CSS, JavaScript, and PHP**.<br/>
 ✔️ Frameworks: **Bootstrap 4 and Laravel**.<br/>
 ✔️ Libraries:  **jQuery and jQuery UI**.<br/>
-✔️ Front-end Tools: **SASS/SCSS, AJAX, Node.js, and Git**.<br/>
+✔️ Front-end Tools: **SASS, AJAX, Node.js, and Git**.<br/>
 ✔️ Database Management System: **MySQL**.<br/>
 ✔️ Content Management System: **WordPress**.<br/>
 ✔️ Programming Languages: **C, C++, and PHP**.<br/>
