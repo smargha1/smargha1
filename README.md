@@ -2,7 +2,7 @@
 <a href="#"><img width="70%" height="auto" src="https://github.com/smargha1/smargha1/blob/main/header.png"/></a>
 </p>
 
-<h1 align="center">Hello <img src="https://github.com/smargha1/smargha1/blob/main/wave.gif" width="30px">, I am Srabon Mandal Argha</h1> 
+<h1 align="center">Hello <img src="https://github.com/smargha1/smargha1/blob/main/wave.gif" width="3px">, I am Srabon Mandal Argha</h1> 
 <h3 align="center">Dedicated and skilled Full-Stack Web Developer</h3>
 
 ## 🙋‍♂️ About Me:
