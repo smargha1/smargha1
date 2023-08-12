@@ -21,7 +21,7 @@
 ✔️ Libraries:  **jQuery and jQuery UI**.<br/>
 ✔️ Front-end Tools: **SASS, AJAX, Node.js, and Git**.<br/>
 ✔️ Database Management System: **MySQL**.<br/>
-✔️ Content Management System: **WordPress**.<br/>
+✔️ CMS Customization: **WordPress** using **Elementor**.<br/>
 ✔️ Programming Languages: **C, C++, and PHP**.<br/>
 ✔️ Familiarity with OS: **Windows and Linux**.<br/>
 ✔️ Troubleshooting: **Hardware and Software**.<br/>
